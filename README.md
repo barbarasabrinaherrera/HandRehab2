@@ -4,3 +4,5 @@ Projeto Final de conclusão do curso de bacharel em Ciência da Computação da 
 Orientador: Prof. Alberto Barbosa Raposo 
 
 Co-orientador: Phd Greis F. M. Silva-Calpa
+
+... README do projeto em desenvolvimento ...
